@@ -1,0 +1,58 @@
+.gallery img
+{
+    width: 100%;
+}
+#menu
+{
+    width:100%;
+    height:40px;
+    background-image: url(images/thor.jpg);
+    padding-top: 12px;
+    text-align: right;
+}
+
+#menu a{
+      color:#ffffff;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+      text-decoration:none;
+      font-weight: 800px;
+      
+      padding-left: 20px;
+      padding-right: 20px;
+}
+
+#menu a:hover{
+       color: #5077bd;
+}
+
+p
+{
+    color: azure;
+}
+
+body
+{
+    background-image: url(images/backgound.jpg)
+}
+h2
+{
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: cornflowerblue;
+    text-align: center;
+}
+h4
+{
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    color: red;
+    text-align: center;
+}
+
+p
+{
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+ 
+}
